@@ -12,6 +12,10 @@ epy_block*
 
 pruebas/
 Obsoleta/
+obsoleta/
+obsoleto/
+Obsoleto/
+pruebas/
 #######################################################
 # Byte-compiled / optimized / DLL files
 __pycache__/
